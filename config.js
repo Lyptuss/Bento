@@ -84,7 +84,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'Netflix',
-      icon: 'netflix',
+      icon: 'film',
       link: 'https://netflix.com/',
     },
   ],
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'gamepad-2',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'DIM',
+          link: 'https://app.destinyitemmanager.com/4611686018472742639/d2/inventory',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'U.GG',
+          link: 'https://u.gg/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Armor Picker',
+          link: 'https://d2armorpicker.com/#/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'NXBrew',
+          link: 'https://nxbrew.com/',
         },
       ],
     },
@@ -161,20 +161,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Twitch',
+          link: 'https://www.twitch.tv/',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Destiny',
+          link: 'https://www.reddit.com/r/DestinyTheGame/',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Spotify',
+          link: 'https://open.spotify.com/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Repacks',
+          link: 'https://fitgirl-repacks.site/',
         },
       ],
     },
