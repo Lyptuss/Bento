@@ -73,7 +73,7 @@ const CONFIG = {
       id: '4',
       name: 'School',
       icon: 'book-open',
-      link: 'https://discussion.academyart.edu/userHome',
+      link: 'https://portal.academyart.edu/campusm/home#menu',
     },
     {
       id: '5',
